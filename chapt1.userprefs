@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ConfigGui.cs">
+    <Files>
+      <File FileName="Assets\SplashScreen.cs" Line="6" Column="2" />
+      <File FileName="Assets\ConfigGui.cs" Line="12" Column="36" />
+      <File FileName="Assets\NGUI\Examples\Scripts\Other\ChatInput.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
